@@ -63,3 +63,16 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+.sl-wrapper {
+  background-color: #181c1f;
+}
+.sl-wrapper .sl-close {
+  color: #bdd1d4;
+}
+.sl-wrapper .sl-counter {
+  color: #bdd1d4;
+}
+.sl-wrapper .sl-navigation button {
+  color: #bdd1d4;
+}
