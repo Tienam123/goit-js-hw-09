@@ -168,7 +168,6 @@ body.hidden-scroll {
 }
 
 .sl-wrapper .sl-close {
-	color:  #bdd1d4;
 	display: none;
 	position: fixed;
 	right: 30px;
@@ -180,7 +179,7 @@ body.hidden-scroll {
 	width: 44px;
 	line-height: 44px;
 	font-family: Arial, Baskerville, monospace;
-	color: #000;
+	color: #bdd1d4;
 	font-size: 3rem
 }
 
